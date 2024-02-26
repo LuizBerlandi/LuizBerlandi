@@ -10,8 +10,8 @@ My primary focus is on PHP, and I am actively working on enhancing my skills in 
 I am open to collaboration, feedback, and suggestions. If you find any areas for improvement in my code or have ideas for exciting projects, feel free to reach out. I am also interested in participating in coding challenges and contributing to open-source projects.
 
 ### Contact Information
-LinkedIn: https://www.linkedin.com/in/luiz-berlandi-72b0a528a/
-Instagram: instagram.com/oluizberlandi
+LinkedIn: https://www.linkedin.com/in/luiz-berlandi-72b0a528a/<br>
+Instagram: instagram.com/oluizberlandi<br>
 Feel free to explore my projects and follow my coding journey! Thank you for joining me on this exciting adventure.!--
 
 
