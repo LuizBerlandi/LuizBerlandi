@@ -11,7 +11,7 @@ I am open to collaboration, feedback, and suggestions. If you find any areas for
 
 ### Contact Information
 LinkedIn: https://www.linkedin.com/in/luiz-berlandi-72b0a528a/<br>
-Instagram: instagram.com/oluizberlandi<br>
+Instagram: https://www.instagram.com/oluizberlandi<br>
 Feel free to explore my projects and follow my coding journey! Thank you for joining me on this exciting adventure.!--
 
 
