@@ -8,13 +8,13 @@ Hello! I'm Luiz, passionate about understanding and transforming data into valua
 ### Learning Focus
 I am dedicated to studying data across diverse domains of knowledge, uncovering insights that drive decision-making and innovation. My approach combines analytical thinking with a strong technical foundation, enabling me to explore patterns, solve problems, and create value through data-driven solutions.
 
-### Tools and Technologies
-Programming Languages: Python, SQL, R
-Data Analysis Tools: Pandas, NumPy, Matplotlib, Seaborn
-Big Data & Cloud: Databricks, Google BigQuery, Apache Spark
-Visualization: Power BI, Tableau
-Machine Learning: Scikit-learn, TensorFlow, PyTorch
-Databases: MySQL, PostgreSQL, MongoDB
+### Tools and Technologies  
+- **Programming Languages:** Python, SQL, R  
+- **Data Analysis Tools:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Big Data & Cloud:** Databricks, Google BigQuery, Apache Spark  
+- **Visualization:** Power BI, Tableau  
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
 
 ### How to Get Involved
 I am open to collaboration, feedback, and suggestions. If you find any areas for improvement in my code or have ideas for exciting projects, feel free to reach out. I am also interested in participating in coding challenges and contributing to open-source projects.
