@@ -1,10 +1,20 @@
-### Hi there 👋
+###It's me 👋
+Hi there! I'am Luiz Berlandi 
+**Data and Statistics Student | Explorer of the World of Numbers**  
 
 ### Overview
-Welcome to my coding journey repository! As a passionate learner, I am currently focusing on mastering HTML, CSS, JavaScript, and PHP. This README serves as a guide to understanding my projects and progress.
+Hello! I'm Luiz, passionate about understanding and transforming data into valuable insights. My goal is to apply data science to create positive impact in different areas, solving real problems and innovating processes.
 
 ### Learning Focus
-My primary focus is on PHP, and I am actively working on enhancing my skills in this language. I believe in continuous learning and improvement, and each project reflects my commitment to applying my knowledge.
+I am dedicated to studying data across diverse domains of knowledge, uncovering insights that drive decision-making and innovation. My approach combines analytical thinking with a strong technical foundation, enabling me to explore patterns, solve problems, and create value through data-driven solutions.
+
+### Tools and Technologies
+Programming Languages: Python, SQL, R
+Data Analysis Tools: Pandas, NumPy, Matplotlib, Seaborn
+Big Data & Cloud: Databricks, Google BigQuery, Apache Spark
+Visualization: Power BI, Tableau
+Machine Learning: Scikit-learn, TensorFlow, PyTorch
+Databases: MySQL, PostgreSQL, MongoDB
 
 ### How to Get Involved
 I am open to collaboration, feedback, and suggestions. If you find any areas for improvement in my code or have ideas for exciting projects, feel free to reach out. I am also interested in participating in coding challenges and contributing to open-source projects.
