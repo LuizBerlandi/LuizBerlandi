@@ -1,5 +1,5 @@
 ### It's me 👋
-Hi there! I'am Luiz Berlandi 
+Hi there! I'am Luiz Berlandi| 
 **Data and Statistics Student | Explorer of the World of Numbers**  
 
 ### Overview
